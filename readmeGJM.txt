@@ -1,2 +1,2 @@
 hello world
-fuck the world
+help the world
